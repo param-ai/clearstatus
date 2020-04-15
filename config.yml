@@ -21,13 +21,13 @@ params:
   systems:
     - name: Platform
       description: Recruitment Portal, Employee Portal, Career Portal, Agency Portal
-      link: https://www.example.com/
+      link: https://statuspage.freshping.io/25298-PLATFORM
     - name: Marketplace
       description: Integration related services
-      link: https://support.example.com/
+      link: https://statuspage.freshping.io/25297-MARKETPLACE
     - name: Lisa
       description: Chatbot
-      link: https://support.example.com/   
+      link: https://statuspage.freshping.io/25296-LISA  
     - name: Mail
       description: Messaging
       link: https://support.example.com/
